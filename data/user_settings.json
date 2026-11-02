@@ -1,0 +1,17 @@
+{
+  "music_volume": 0.5476190476190477,
+  "sfx_volume": 0.8,
+  "display_mode": "window",
+  "resolution": [
+    1280,
+    720
+  ],
+  "keybinds": {
+    "left": "a",
+    "right": "d",
+    "jump": "space",
+    "attack": "mouse_left",
+    "roll": "q",
+    "dash": "e"
+  }
+}
